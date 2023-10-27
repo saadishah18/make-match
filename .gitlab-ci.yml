@@ -1,0 +1,42 @@
+stages:
+  - deploy
+  - code-audit
+
+sonarqube-check:
+  stage: code-audit
+  tags:
+    - vaffa-cosmo-b2-03
+  image:
+    name: sonarsource/sonar-scanner-cli:latest
+    entrypoint: [""]
+  variables:
+    SONAR_USER_HOME: "${CI_PROJECT_DIR}/.sonar"  # Defines the location of the analysis task cache
+    GIT_DEPTH: "0"  # Tells git to fetch all the branches of the project, required by the analysis task
+  cache:
+    key: "${CI_JOB_NAME}"
+    paths:
+      - .sonar/cache
+  script:
+    - sonar-scanner
+  allow_failure: true
+  only:
+    - ui
+
+deploy_nikah_admin:
+  stage: deploy
+  tags:
+    - php-8.2
+  script:
+    - cd /var/www/nikah-admin
+    - sudo git stash
+    - sudo git pull origin staging
+    #- sudo rm -rf node_modules
+    #- sudo rm -r package-lock.json
+    #- sudo npm i
+    #- sudo npm run build
+    #- sudo composer install
+    #- sudo php artisan config:clear
+    #- sudo php artisan route:clear
+    #- sudo php artisan migrate
+  only:
+    - staging

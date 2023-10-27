@@ -1,0 +1,105 @@
+@media (max-height: 900px) {
+  .at-authformholder {
+    padding-top: 2.5rem;
+  }
+  .at-authhead{margin-bottom: 2rem !important;}
+  .at-authhead .at-logo {
+    margin-bottom: 4rem !important;
+  }
+  .at-btnbackholder{margin-bottom: 5rem !important;}
+}
+@media only screen and (max-width: 768px) and (min-width: 320px) {
+  .at-authhead .at-logo {
+    margin-bottom: 30px !important;
+  }
+}
+@media (max-width: 1023px){
+  .at-employeeworkchart,
+  .at-teamsrankingchart{
+    width: 100%;
+    max-width: 100%;
+  }
+  .at-employeeworkchart{
+    margin: 30px 0 0;
+    height: 100% !important;
+  }
+  .at-employeechartarea,
+  .at-employeechartarea .highcharts-container{
+    height: auto !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .at-themetablearea .at-themetable thead{display: none;}
+	.at-themetablearea .at-themetable tbody tr td{
+		display: flex;
+		position: relative;
+    align-items: center;
+    justify-content: flex-start;
+    border-bottom: 1px solid #eaeaea;
+		padding: 15px 20px 15px calc(50% + 20px);
+	}
+  .at-themetablearea .at-themetable tbody tr td:first-child{border-radius: 10px 10px 0 0;}
+  .at-themetablearea .at-themetable tbody tr td:last-child{
+    border-bottom: 0;
+    /* border-radius: 0; */
+    border-radius: 0 0 10px 10px;
+  }
+	.at-themetablearea .at-themetable tbody tr td:before{
+		top: 0;
+		left: 0;
+		width: 50%;
+		height: 100%;
+    display: flex;
+		color: #3a3a3a;
+		font-size: 14px;
+    font-weight: bold;
+		padding: 5px 20px;
+		position: absolute;
+    align-items: center;
+		line-height: inherit;
+		content: attr(data-title);
+    justify-content: flex-start;
+    font-family: 'product_sansregular';
+	}
+  .at-themetablearea .at-themetable tbody tr td .at-themeemployeinfo{min-height: auto;}
+}
+@media (max-width: 768px){
+  .at-themetablearea .at-themetable tbody tr td {padding: 15px 20px 15px calc(30% + 20px);}
+  .at-standingselect,
+  .at-standingfilters,
+  .at-standingselectdept{
+    width: 100%;
+    float: left;
+  }
+  .at-standingselectdept{margin: 0 0 20px;}
+  .at-standingselectdept div,
+  .at-standingselectdept div button{width: 100%;}
+  .at-ideasfilters div,
+  .at-ideasfilters div button{
+    width: 100%;
+    float: left;
+  }
+  .at-ideasfilters .at-deptdrodown{min-width: 100%;}
+}
+@media (max-width: 640px){
+  .at-themetablearea .at-themetable tbody tr td{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    display: block;
+  }
+  .at-themetablearea .at-themetable tbody tr td:before{
+    width: 100%;
+    float: left;
+    display: block;
+    position: static;
+    text-align: left;
+    padding: 0 0 20px;
+  }
+  .at-overallratings,
+  .at-themetablearea .at-themetable tbody tr td .at-themeactions{
+    width: 100%;
+    float: left;
+  }
+}

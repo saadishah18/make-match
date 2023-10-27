@@ -1,0 +1,524 @@
+[
+   {
+      "Name":"Bilal Khalid",
+      "DOB":"02-14",
+      "DOJ":"2016-01-01",
+      "Email":"bilalkhalid@renesistech.com",
+      "Designation":"Technical Director",
+      "Employee Code":"100001",
+      "Department":"Director"
+   },
+   {
+      "Name":"Anum Rajput",
+      "DOB":"05-04",
+      "DOJ":"2021-06-14",
+      "Email":"anum@renesistech.com",
+      "Designation":"HR Manager",
+      "Employee Code":"100156",
+      "Department":"HR"
+   },
+   {
+      "Name":"Muhammad Raza Liaqat",
+      "DOB":"12-24",
+      "DOJ":"2022-03-16",
+      "Email":"raza@renesistech.com",
+      "Designation":"Assistant Manager HR",
+      "Employee Code":"100193",
+      "Department":"HR"
+   },
+   {
+      "Name":"Yasir Iqbal",
+      "DOB":"08-28",
+      "DOJ":"2021-07-08",
+      "Email":"yasir@renesistech.com",
+      "Designation":"SQA Teamlead",
+      "Employee Code":"100159",
+      "Department":"QA"
+   },
+   {
+      "Name":"Swera",
+      "DOB":"12-28",
+      "DOJ":"2021-01-01",
+      "Email":"swera@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100123",
+      "Department":"QA"
+   },
+   {
+      "Name":"Mariam Khalid",
+      "DOB":"",
+      "DOJ":"2022-04-11",
+      "Email":"marryamkhalid@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100200",
+      "Department":"QA"
+   },
+   {
+      "Name":"Muhammad Ahmad",
+      "DOB":"05-19",
+      "DOJ":"2022-05-09",
+      "Email":"m.ahmad@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100196",
+      "Department":"QA"
+   },
+   {
+      "Name":"Khan Muhammad",
+      "DOB":"11-07",
+      "DOJ":"2022-04-11",
+      "Email":"khanmuhammad@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100198",
+      "Department":"QA"
+   },
+   {
+      "Name":"Muhammad Nouman Sami",
+      "DOB":"08-09",
+      "DOJ":"2022-02-18",
+      "Email":"nouman.sami@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100188",
+      "Department":"QA"
+   },
+   {
+      "Name":"Usman Haider",
+      "DOB":"12-02",
+      "DOJ":"2022-04-11",
+      "Email":"usmanhaider@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100197",
+      "Department":"QA"
+   },
+   {
+      "Name":"Muhammad Zahid Ali",
+      "DOB":"11-20",
+      "DOJ":"2022-02-18",
+      "Email":"zahid.ali@renesistech.com",
+      "Designation":"SQA Enginner",
+      "Employee Code":"100189",
+      "Department":"QA"
+   },
+   {
+      "Name":"Shehzad",
+      "DOB":"09-05",
+      "DOJ":"2020-08-10",
+      "Email":"shehzad.iqbal@renesistech.com",
+      "Designation":"VP of Technology",
+      "Employee Code":"100100",
+      "Department":"JS"
+   },
+   {
+      "Name":"Muhammad Usman",
+      "DOB":"05-09",
+      "DOJ":"2022-10-24",
+      "Email":"usman@renesistech.com",
+      "Designation":"Sr. MERN Stack Developer",
+      "Employee Code":"",
+      "Department":"JS"
+   },
+   {
+      "Name":"Asif Javeed",
+      "DOB":"",
+      "DOJ":"2017-05-15",
+      "Email":"asifjaved@renesistech.com",
+      "Designation":"Sr. Blockchain/MERN developer",
+      "Employee Code":"100041",
+      "Department":"JS"
+   },
+   {
+      "Name":"Ali Hassan",
+      "DOB":"02-21",
+      "DOJ":"2022-04-25",
+      "Email":"ali.hassan@renesistech.com",
+      "Designation":"Sr. MERN Stack Developer",
+      "Employee Code":"100203",
+      "Department":"JS"
+   },
+   {
+      "Name":"Hamzah Hashmi",
+      "DOB":"10-28",
+      "DOJ":"2022-11-02",
+      "Email":"hamza@renesistech.com",
+      "Designation":"Sr. MERN Stack Developer",
+      "Employee Code":"",
+      "Department":"JS"
+   },
+   {
+      "Name":"Abdul Rehman",
+      "DOB":"02-02",
+      "DOJ":"",
+      "Email":"rehman@renesistech.com",
+      "Designation":"Sr. MERN Stack Developer",
+      "Employee Code":"100128",
+      "Department":"JS"
+   },
+   {
+      "Name":"Waheed Ahmad",
+      "DOB":"02-09",
+      "DOJ":"2022-01-03",
+      "Email":"waheed@renesistech.com",
+      "Designation":"Sr. MERN Stack Developer",
+      "Employee Code":"100184",
+      "Department":"JS"
+   },
+   {
+      "Name":"Muhammad Sharaz",
+      "DOB":"02-26",
+      "DOJ":"2022-04-27",
+      "Email":"sharaz@renesistech.com",
+      "Designation":"MERN Stack Developer",
+      "Employee Code":"100205",
+      "Department":"JS"
+   },
+   {
+      "Name":"Khizer Ali",
+      "DOB":"03-28",
+      "DOJ":"2021-06-02",
+      "Email":"khizer@renesistech.com",
+      "Designation":"Jr. MERN Stack Developer",
+      "Employee Code":"100154",
+      "Department":"JS"
+   },
+   {
+      "Name":"Muhammad Saqib Javed",
+      "DOB":"07-05",
+      "DOJ":"2021-10-11",
+      "Email":"msaqib@renesistech.com",
+      "Designation":"Jr. MERN Stack Developer",
+      "Employee Code":"100171",
+      "Department":"JS"
+   },
+   {
+      "Name":"Tasaduq Bandesha",
+      "DOB":"07-01",
+      "DOJ":"2022-02-08",
+      "Email":"tasaduq@renesistech.com",
+      "Designation":"Jr. Front-end Developer",
+      "Employee Code":"100190",
+      "Department":"JS"
+   },
+   {
+      "Name":"Maaz Ali yousaf",
+      "DOB":"06-15",
+      "DOJ":"2021-11-01",
+      "Email":"maaz@renesistech.com",
+      "Designation":"Jr. Front-end Developer",
+      "Employee Code":"100175",
+      "Department":"JS"
+   },
+   {
+      "Name":"Talha Javed",
+      "DOB":"10-09",
+      "DOJ":"2021-12-02",
+      "Email":"talha@renesistech.com",
+      "Designation":"Jr. Front-end Developer",
+      "Employee Code":"100177",
+      "Department":"JS"
+   },
+   {
+      "Name":"Ahmad Raza",
+      "DOB":"08-01",
+      "DOJ":"2022-04-11",
+      "Email":"ahmadraza@renesistech.com",
+      "Designation":"Jr. Front-end Developer",
+      "Employee Code":"100199",
+      "Department":"JS"
+   },
+   {
+      "Name":"Muhammad Ali",
+      "DOB":"",
+      "DOJ":"2022-05-13",
+      "Email":"m.ali@renesistech.com",
+      "Designation":"Jr. Front-end Developer",
+      "Employee Code":"100207",
+      "Department":"JS"
+   },
+   {
+      "Name":"Muhammad Tayyab",
+      "DOB":"10-12",
+      "DOJ":"2022-09-26",
+      "Email":"tayyab@renesistech.com",
+      "Designation":"Sr. Front-end Developer",
+      "Employee Code":"100219",
+      "Department":"Front-end"
+   },
+   {
+      "Name":"Muhammad Zubair Riaz",
+      "DOB":"01-01",
+      "DOJ":"2018-05-02",
+      "Email":"zubairriaz@renesistech.com",
+      "Designation":"Team Lead Front End",
+      "Employee Code":"100024",
+      "Department":"Front-end"
+   },
+   {
+      "Name":"Yameen",
+      "DOB":"08-23",
+      "DOJ":"2017-10-16",
+      "Email":"yameen@renesistech.com",
+      "Designation":"Sr. Front-end Developer",
+      "Employee Code":"100026",
+      "Department":"Front-end"
+   },
+   {
+      "Name":"Omer Shafique",
+      "DOB":"03-13",
+      "DOJ":"2017-10-16",
+      "Email":"omer.shafique@renesistech.com",
+      "Designation":"Sr. Front-end Developer",
+      "Employee Code":"100025",
+      "Department":"Front-end"
+   },
+   {
+      "Name":"Tayyaba Tauqeer",
+      "DOB":"08-01",
+      "DOJ":"2022-10-03",
+      "Email":"tayyaba@renesistech.com",
+      "Designation":"Financial Analyst",
+      "Employee Code":"",
+      "Department":"Accounts"
+   },
+   {
+      "Name":"Komal Sheikh",
+      "DOB":"07-28",
+      "DOJ":"2021-03-26",
+      "Email":"komal@renesistech.com",
+      "Designation":"Accounts Associates",
+      "Employee Code":"100147",
+      "Department":"Accounts"
+   },
+   {
+      "Name":"Irtaza",
+      "DOB":"05-08",
+      "DOJ":"2022-03-15",
+      "Email":"irtazamanzoor@renesistech.com",
+      "Designation":"Design Teamlead",
+      "Employee Code":"100192",
+      "Department":"Design"
+   },
+   {
+      "Name":"Muhammad Asad",
+      "DOB":"09-14",
+      "DOJ":"2020-09-08",
+      "Email":"muhammadasad@renesistech.com",
+      "Designation":"Sr. UI/UX Designer",
+      "Employee Code":"100108",
+      "Department":"Design"
+   },
+   {
+      "Name":"Amnan Khalid",
+      "DOB":"08-24",
+      "DOJ":"2022-10-17",
+      "Email":"amnan@renesistech.com",
+      "Designation":"Sr. UI/UX Designer",
+      "Employee Code":"",
+      "Department":"Design"
+   },
+   {
+      "Name":"Zain Anwar",
+      "DOB":"08-07",
+      "DOJ":"",
+      "Email":"zainanwar@renesistech.com",
+      "Designation":"Jr. UI/UX Designer",
+      "Employee Code":"100022",
+      "Department":"Design"
+   },
+   {
+      "Name":"Tabassum Abbas",
+      "DOB":"12-27",
+      "DOJ":"2022-06-01",
+      "Email":"tabassum@renesistech.com",
+      "Designation":"Jr. UI/UX Designer",
+      "Employee Code":"100210",
+      "Department":"Design"
+   },
+   {
+      "Name":"Hamza",
+      "DOB":"04-19",
+      "DOJ":"2020-06-01",
+      "Email":"muhammadhamza@renesistech.com",
+      "Designation":"Business Developer Executive",
+      "Employee Code":"100088",
+      "Department":"BD"
+   },
+   {
+      "Name":"Wajeeh Hussain",
+      "DOB":"01-25",
+      "DOJ":"2019-09-01",
+      "Email":"wajeehhussain@renesistech.com",
+      "Designation":"Director of Client Relations",
+      "Employee Code":"100004",
+      "Department":"BD"
+   },
+   {
+      "Name":"Muqadas Qamar",
+      "DOB":"11-18",
+      "DOJ":"2021-04-01",
+      "Email":"muqadas@renesistech.com",
+      "Designation":"Business Developer Executive",
+      "Employee Code":"100148",
+      "Department":"BD"
+   },
+   {
+      "Name":"Afraz Ahmed",
+      "DOB":"05-01",
+      "DOJ":"2018-05-02",
+      "Email":"afrazahmad@renesistech.com",
+      "Designation":"Laravel Teamlead",
+      "Employee Code":"100014",
+      "Department":"Laravel"
+   },
+   {
+      "Name":"Gulzar Ali",
+      "DOB":"07-31",
+      "DOJ":"2022-06-15",
+      "Email":"gulzar.ali@renesistech.com",
+      "Designation":"Sr. Laravel/Vue.js Developer",
+      "Employee Code":"100211",
+      "Department":"Laravel"
+   },
+   {
+      "Name":"Saad Siddiqui",
+      "DOB":"03-18",
+      "DOJ":"2022-08-29",
+      "Email":"saad@renesistech.com",
+      "Designation":"Sr. Laravel Developer",
+      "Employee Code":"100217",
+      "Department":"Laravel"
+   },
+   {
+      "Name":"IRFAN IQBAL",
+      "DOB":"12-05",
+      "DOJ":"2022-08-11",
+      "Email":"irfan@renesistech.com",
+      "Designation":"Sr. Laravel Developer",
+      "Employee Code":"100216",
+      "Department":"Laravel"
+   },
+   {
+      "Name":"Shoaib Ahmad",
+      "DOB":"10-10",
+      "DOJ":"2022-07-25",
+      "Email":"shoaib@renesistech.com",
+      "Designation":"Sr. Laravel Developer",
+      "Employee Code":"100215",
+      "Department":"Laravel"
+   },
+   {
+      "Name":"Syed Ali Zaib",
+      "DOB":"11-08",
+      "DOJ":"2021-03-24",
+      "Email":"ali.zaib@renesistech.com",
+      "Designation":"Android/Flutter Teamlead",
+      "Employee Code":"100145",
+      "Department":"Android/Flutter"
+   },
+   {
+      "Name":"Faisal Waris",
+      "DOB":"03-24",
+      "DOJ":"2017-11-13",
+      "Email":"faisalwaris@renesistech.com",
+      "Designation":"Sr. Android/Flutter Developer",
+      "Employee Code":"100020",
+      "Department":"Android/Flutter"
+   },
+   {
+      "Name":"Muhammad Ali Raza",
+      "DOB":"12-12",
+      "DOJ":"2021-09-20",
+      "Email":"mali@renesistech.com",
+      "Designation":"Sr. Flutter Developer",
+      "Employee Code":"100166",
+      "Department":"Android/Flutter"
+   },
+   {
+      "Name":"Arslan Afzal",
+      "DOB":"11-21",
+      "DOJ":"2021-12-01",
+      "Email":"arslan.afzal@renesistech.com",
+      "Designation":"Sr. Flutter Developer",
+      "Employee Code":"100176",
+      "Department":"Android/Flutter"
+   },
+   {
+      "Name":"Junaid Tahir",
+      "DOB":"01-04",
+      "DOJ":"2021-12-17",
+      "Email":"junaidtahir@renesistech.com",
+      "Designation":"Sr. Flutter Developer",
+      "Employee Code":"100182",
+      "Department":"Android/Flutter"
+   },
+   {
+      "Name":"Arslan Riaz",
+      "DOB":"11-06",
+      "DOJ":"2021-11-06",
+      "Email":"arslan.riaz@renesistech.com",
+      "Designation":"Sr. Flutter Developer",
+      "Employee Code":"100181",
+      "Department":"Android/Flutter"
+   },
+   {
+      "Name":"Samina Kausar",
+      "DOB":"05-27",
+      "DOJ":"2021-01-12",
+      "Email":"samina@renesistech.com",
+      "Designation":"Technical Operation Analyst",
+      "Employee Code":"100134",
+      "Department":"PM"
+   },
+   {
+      "Name":"Maryam Zeeshan",
+      "DOB":"07-31",
+      "DOJ":"2021-05-17",
+      "Email":"maryam@renesistech.com",
+      "Designation":"Project Manager",
+      "Employee Code":"100151",
+      "Department":"PM"
+   },
+   {
+      "Name":"Aizaz Riaz",
+      "DOB":"10-27",
+      "DOJ":"2022-04-06",
+      "Email":"aizaz@renesistech.com",
+      "Designation":"Project Manager",
+      "Employee Code":"100201",
+      "Department":"PM"
+   },
+   {
+      "Name":"Tehreem Athar",
+      "DOB":"07-16",
+      "DOJ":"2022-06-23",
+      "Email":"tehreem@renesistech.com",
+      "Designation":"Social Media Excecutive",
+      "Employee Code":"100213",
+      "Department":"Marketing"
+   },
+   {
+      "Name":"Armughan",
+      "DOB":"01-16",
+      "DOJ":"2022-03-28",
+      "Email":"armughan@renesistech.com",
+      "Designation":"Team Lead DevOps",
+      "Employee Code":"100194",
+      "Department":"DevOps"
+   },
+   {
+      "Name":"Fahad Ullah",
+      "DOB":"07-17",
+      "DOJ":"2022-06-20",
+      "Email":"fahad@renesistech.com",
+      "Designation":"Jr. DevOps Enginner",
+      "Employee Code":"100212",
+      "Department":"DevOps"
+   },
+   {
+      "Name":"Syed Shujaat",
+      "DOB":"12-15",
+      "DOJ":"2021-11-04",
+      "Email":"shujaatkazmi265@gmail.com",
+      "Designation":"Admin",
+      "Employee Code":"100179",
+      "Department":"Admin"
+   }
+]
