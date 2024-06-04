@@ -195,8 +195,7 @@ class KhuluRepository implements KhuluInterface
 
     public function KhuluPayamentLink($khula_data)
     {
-//        $stripe = Stripe::make('sk_test_51MRYMMIeKsa2Rfj0xUuh26QRBvowKwwPqMBqoxqR8iLfAXcw1HPPxTCguMmxBeF4UPDvy24P5MhYZbwnThG726Fk00AcLN4r0s');
-        $stripe = Stripe::make('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');
+        $stripe = env('stripe_secret');
         $khula_price = formatNumbers(PortalSetting::where('name', 'khulu_fees')->first()->value);
         $total_price = includeVatInPrice($khula_price);
         $paymentIntent = $stripe->paymentIntents()->create([
